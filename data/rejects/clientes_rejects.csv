@@ -1,0 +1,4 @@
+id_cliente,cliente,correo,ciudad,motivo_rechazo
+CL176,Distribuciones Luna 76,,Santa Ana,correo_vacio
+CL202,Tienda Central 102,,La Libertad,correo_vacio
+CL203,Distribuciones Luna 103,,Santa Ana,correo_vacio
