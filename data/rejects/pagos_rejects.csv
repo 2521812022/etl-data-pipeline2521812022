@@ -1,0 +1,19 @@
+id_pago,id_venta,metodo,monto_pagado,motivo_rechazo
+PG8039,V9175,Cheque,,monto_invalido_o_vacio
+PG8055,V9113,Efectivo,,monto_invalido_o_vacio
+PG8095,V9026,Transferencia,,monto_invalido_o_vacio
+PG8106,V9132,Cheque,,monto_invalido_o_vacio
+PG8116,V9210,Tarjeta,,monto_invalido_o_vacio
+PG8120,V9138,Tarjeta,,monto_invalido_o_vacio
+PG8122,V9174,Efectivo,,monto_invalido_o_vacio
+PG8137,V9155,Pago móvil,,monto_invalido_o_vacio
+PG8140,V9160,Transferencia,,monto_invalido_o_vacio
+PG8155,V9149,Pago móvil,,monto_invalido_o_vacio
+PG8170,V9226,Efectivo,,monto_invalido_o_vacio
+PG8179,V9000,Tarjeta,,monto_invalido_o_vacio
+PG8191,V9190,Transferencia,,monto_invalido_o_vacio
+PG8193,V9226,Tarjeta,,monto_invalido_o_vacio
+PG8195,V9116,Transferencia,,monto_invalido_o_vacio
+PG8205,V9076,Pago móvil,,monto_invalido_o_vacio
+PG8211,V9218,Pago móvil,,monto_invalido_o_vacio
+PG8233,V9153,Cheque,,monto_invalido_o_vacio
